@@ -1,0 +1,16 @@
+.Counter {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.number {
+  font-size: larger;
+}
+
+#up {
+  color: green;
+}
+
+#down {
+  color: red;
+}
