@@ -23,7 +23,7 @@ export default class Counter extends React.Component {
         <h1>Counter</h1>
         <label className="number">{this.state.count}</label>
         <br></br>
-        <button id="up" onClick={() => this.incrementCount()}>
+        <button className="button btn-min" id="up" onClick={() => this.incrementCount()}>
           Increment
         </button>
         <button id="down" onClick={() => this.decrementCount()}>
