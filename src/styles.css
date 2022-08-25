@@ -4,7 +4,8 @@
 }
 
 .number {
-  font-size: larger;
+  font-size: 20pt;
+  font-weight: bold;
 }
 
 #up {
